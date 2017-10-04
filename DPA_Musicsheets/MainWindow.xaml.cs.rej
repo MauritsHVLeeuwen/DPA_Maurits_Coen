@@ -1,0 +1,6 @@
+diff a/DPA_Musicsheets/MainWindow.xaml.cs b/DPA_Musicsheets/MainWindow.xaml.cs	(rejected hunks)
+@@ -3,3 +4,4 @@
++﻿using DPA_Musicsheets.Model.Factory;
+ using Microsoft.Win32;
+ using PSAMControlLibrary;
+ using Sanford.Multimedia.Midi;
